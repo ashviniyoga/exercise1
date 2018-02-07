@@ -1,7 +1,19 @@
 body{
+<<<<<<< HEAD
     background-color: deeppink;
-    color:white;
+    
 }
 h1, p {
     text-shadow: 1px 1px black;
+    color:white;
+=======
+    background-color: lavender;
+
+}
+
+
+/*Parisa*/
+h2 {
+    color: coral;
+>>>>>>> fbfed4f7221dc57f0931612b9852ec96ebf61d8d
 }
