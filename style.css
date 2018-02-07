@@ -1,6 +1,7 @@
 body{
 
-    background-color: deeppink;
+    background-color: deepskyblue;
+
 }
 h1, p {
     text-shadow: 1px 1px black;
@@ -16,6 +17,6 @@ h2 {
 }
 
 h3{
-     
+    text-decoration: underline;
     color:white;
 }
